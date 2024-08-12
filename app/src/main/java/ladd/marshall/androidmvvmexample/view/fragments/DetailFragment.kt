@@ -33,7 +33,7 @@ class DetailFragment : Fragment(R.layout.detail_fragment) {
                     binding.textViewSalary.text = "Salary: "+employee.employeeSalary.toString()
 
 
-                }
+                }   
             }
         }
     }
